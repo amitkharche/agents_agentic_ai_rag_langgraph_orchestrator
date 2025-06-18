@@ -1,15 +1,15 @@
 from langchain.chat_models import ChatOpenAI
-from langchain.agents import initialize_agent
 from langchain.memory import ConversationBufferMemory
+from langchain.agents import initialize_agent
 
 # Initialize LLM
 llm = ChatOpenAI(temperature=0)
 
-# ✅ Ensure memory returns BaseMessage objects (avoids chat_history error)
+# ✅ Fix: Ensure memory returns a list of BaseMessage objects
 memory = ConversationBufferMemory(memory_key='chat_history', return_messages=True)
 
-# Coder agent (currently without additional tools)
-def coder_agent_executor():
+# Planner agent (no tools for now)
+def planner_agent_executor():
     return initialize_agent(
         tools=[], 
         llm=llm, 

@@ -1,5 +1,29 @@
-streamlit
-openai
-langchain
-python-dotenv
-wikipedia
+# Core Language Model & Agents
+langchain>=0.1.14
+openai>=1.14.2
+
+# Streamlit UI
+streamlit>=1.31.1
+
+# Vector Store (FAISS for RAG)
+faiss-cpu>=1.7.4
+pandas>=2.2.0
+
+# Embeddings
+tiktoken>=0.5.1
+
+# Dotenv for environment management
+python-dotenv>=1.0.1
+
+# LangGraph orchestration (experimental agent flow)
+langgraph>=0.0.31
+
+# Optional: For scraping if used in tools
+beautifulsoup4>=4.12.3
+selenium>=4.19.0
+
+# Optional: For advanced agent memory
+redis>=5.0.1
+
+# For compatibility
+requests>=2.31.0
