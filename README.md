@@ -108,8 +108,8 @@ agentic-ai-orchestrator/
 ### ✅ 1. Clone the Repository
 
 ```bash
-git clone https://github.com/amitkharche/agentic-ai-orchestrator.git
-cd agentic-ai-orchestrator
+git clone https://github.com/amitkharche/agents_agentic_ai_rag_langgraph_orchestrator.git
+cd agents_agentic_ai_rag_langgraph_orchestrator
 ```
 
 ---
