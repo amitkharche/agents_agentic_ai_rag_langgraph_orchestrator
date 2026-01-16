@@ -175,11 +175,9 @@ What happens:
 
 ## 📬 Author & Contact
 
-| Platform | Link                                                 |
-| -------- | ---------------------------------------------------- |
-| GitHub   | [@amitkharche](https://github.com/amitkharche)       |
-| LinkedIn | [Amit Kharche](https://linkedin.com/in/amitkharche) |
-| Medium   | [@amitkharche14](https://medium.com/@amitkharche)  |
+[GitHub](https://github.com/amitkharche)
+[LinkedIn](https://linkedin.com/in/amitkharche)
+[Medium](https://medium.com/@amitkharche)
 
 ---
 
