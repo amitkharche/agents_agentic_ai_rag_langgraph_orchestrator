@@ -178,8 +178,8 @@ What happens:
 | Platform | Link                                                 |
 | -------- | ---------------------------------------------------- |
 | GitHub   | [@amitkharche](https://github.com/amitkharche)       |
-| LinkedIn | [Amit Kharche](https://linkedin.com/in/amit-kharche) |
-| Medium   | [@amitkharche14](https://medium.com/@amitkharche14)  |
+| LinkedIn | [Amit Kharche](https://linkedin.com/in/amitkharche) |
+| Medium   | [@amitkharche14](https://medium.com/@amitkharche)  |
 
 ---
 
